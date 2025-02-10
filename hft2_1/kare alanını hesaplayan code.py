@@ -12,4 +12,5 @@ cvp1 = int(input("\tcm?\t"))
 
 print(f"O halde kare'nin alanı {(cvp1*cvp1)}. Doğru bilmiş miyim?")
 
+input()
 
